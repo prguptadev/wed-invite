@@ -14,7 +14,7 @@ With the divine grace of the almighty, inviting you and your family to Saharsh's
 
 - Find [venue](https://goo.gl/maps/AhkNVzkAwkLzGGeM6) on Google map
 
-- Visit the [website](https://sagun-abhishk.online) for more details
+- Visit the [website](https://sagun-abhishek.online) for more details
 
 ```js
 const newCouple = "Sagun & Abhishek";
