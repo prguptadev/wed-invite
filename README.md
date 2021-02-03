@@ -10,7 +10,7 @@
 
 With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **15th March at [Red Fox Hotel](https://goo.gl/maps/AhkNVzkAwkLzGGeM6), Alwar, Rajasthan from 4:00 PM** onwards.
 
-- [Download](https://sagun-abhishek.netlify.app/assets/Sagun & Abhishek.pdf) the Invitation card
+- [Download](https://raw.githubusercontent.com/prguptadev/wed-invite/a9e052b96e55ec8c7ff3d08a7788c96732bca76c/invitation/Sagun%20%26%20Abhishek.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/AhkNVzkAwkLzGGeM6) on Google map
 
